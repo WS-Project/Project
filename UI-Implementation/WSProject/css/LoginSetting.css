@@ -1,0 +1,91 @@
+#basicContainer{
+    height:500px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.5);
+    margin-top: 100px;
+
+}
+#linkbutton{
+    margin-left: 70%;
+    height: 30px;
+    width: 30%;
+    text-align: center;
+    background-color: #3c3c3c;
+    border-radius:3px;
+    font-family: Arial, serif;
+    font-size: 20px;
+}
+#radius{
+    background-color:rgba(0,0,1,0.5);
+    height:200px;
+    width:100%;
+    border-radius: 3px;
+
+}
+#login{
+    position: absolute;
+    height:500px;
+    width:50%;
+    margin-left: 25%;
+}
+#LoginBox{
+    position:relative;
+    height:500px;
+    width:50%;
+    background-color:rgba(0,0,1,0.8);
+    margin-top: 100px;
+    margin-left: 25%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 12%;
+    margin-left: 12%;
+
+}
+#userID{
+    text-align: center;
+    background-color:rgba(255,255,255,0.5);
+
+}
+h2{
+    font-size: 80px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, serif;
+}
+p{
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10%;
+    font-family: Arial, serif;
+}
+form input{
+    outline:0;
+    border:2px solid;
+    background-color:rgba(255,255,255,0.5);
+    width:200px;
+    height: 20px;
+    border-radius:3px;
+    padding:8px 15px;
+    margin:0 auto 10px;
+    display:block;
+    text-align:center;
+    font-size:15px;
+    -webkit-transition-duration:.25s;
+    transition-duration:.25s;
+    font-weight:300}
+form button{
+    color:#333;
+    border-radius:2px;
+    width:30%;
+    height: 20%;
+    font-size:16px;
+    font-weight:400;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+form button:hover{background-color:#f5f7f9}
+a:hover{background-color:#000000}

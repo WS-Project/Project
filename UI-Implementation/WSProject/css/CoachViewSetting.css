@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial, serif;
+    color: white;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color:rgba(0,0,1,0.8);
+    color: white;
+    border-radius: 3px;
+}

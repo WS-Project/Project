@@ -1,0 +1,66 @@
+body{
+    background-color: rgba(0,0,1,0.5);
+}
+#Picture{
+    width: 300px;
+    height: 400px;
+    position: fixed;
+    margin-left: 50px;
+    margin-top: 100px;
+    background-color: rgba(1,1,1,0.5);
+    border-radius: 10px;
+
+}
+.content{
+    margin-top: 15%;
+    margin-left: 15%;
+}
+#Brief{
+    background-color:rgba(1,1,1,0.5);
+    position: fixed;
+    width: 300px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 300px;
+    border-radius: 10px;
+
+}
+#Info{
+    background-color:rgba(1,1,1,0.7);
+    position: fixed;
+    width: 800px;
+    height: 600px;
+    margin-top: 180px;
+    margin-left: 300px;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+strong{
+    font-family: Arial, serif;
+    font-size: 25px;
+    color: white;
+}
+p{
+    color: #ec971f;
+}
+#Class h2{
+    font-size: 35px;
+    color: #ec971f;
+}
+#Class{
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    margin-top: 500px;
+    margin-left: 900px;
+    background-color:rgba(1,1,1,0.6);
+    border-radius: 10px;
+    padding-left: 20px;
+}
+#Class button{
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    position:fixed;
+    margin-left: 80px;
+}
