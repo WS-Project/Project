@@ -1,0 +1,45 @@
+#basicContainer{
+    height:500px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.5);
+    margin-top: 100px;
+
+}
+#LoginBox{
+    position:relative;
+    height:500px;
+    width:60%;
+    background-color:rgba(0,0,1,0.6);
+    margin-top: 100px;
+    margin-left: 20%;
+}
+#Reminder{
+    position: fixed;
+    width: 100%;
+    background-color: #0f0f0f;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, serif;
+}
+h2{
+    font-size: 60px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, serif;
+}
+h3{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: Arial, serif;
+}
+strong{
+    color: #ec971f;
+    font-family: Arial, serif;
+}
