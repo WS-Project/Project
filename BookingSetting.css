@@ -1,0 +1,31 @@
+.TablePosition{
+    margin-top: 10%;
+    background-color:rgba(255,255,255,0.5) ;
+    width: 80%;
+    margin-left: 10%;
+    height: 100%;
+}
+#basicContainer{
+    height:500px;
+    width: 100%;
+    background-color: rgba(236,151,31,0.8);
+    margin-top: 100px;
+
+}
+table{
+    margin-top: 20px;
+    color:black;
+}
+#Caution{
+    height: 30px;
+    width: 100%;
+    background-color: black;
+}
+strong{
+    text-align: center;
+    font-family: Arial, serif;
+    color: white;
+}
+a:hover{
+    background-color:#ec971f;
+}
