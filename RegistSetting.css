@@ -1,0 +1,60 @@
+
+.RegistContainer{
+    height: 80%;
+    width: 80%;
+    position: fixed;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgba(70,130,180,0.4);
+}
+.ImageContainer{
+    height: 450px;
+    width: 450px;
+    margin-left: 30px;
+    margin-top: 10px;
+    opacity: 80%;
+    position: fixed;
+
+}
+h1{
+    margin-left: 57%;
+    font-family: Arial, serif;
+    color: white;
+}
+form input{
+    outline:0;
+    border:2px solid;
+    background-color:rgba(255,255,255,0.2);
+    width:400px;
+    height: 20px;
+    border-radius:20px;
+    padding:8px 15px;
+    margin:0 50% 10px;
+    display:block;
+    text-align:left;
+    font-size:15px;
+    -webkit-transition-duration:.25s;
+    transition-duration:.25s;
+    font-weight:300}
+form button{
+    color:#333;
+    border-radius:10px;
+    width:30%;
+    height: 20%;
+    font-size:16px;
+    font-weight:400;
+    margin-left: 60%;
+    background-color: #DCDCDC;
+}
+
+form button:hover{background-color:#f5f7f9}
+a:hover{
+    background-color:#4682B4
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, serif;
+    margin-left: 45%;
+
+}
